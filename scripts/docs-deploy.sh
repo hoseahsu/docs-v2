@@ -8,7 +8,7 @@ git commit -m 'docs: update docs'
 
 # git push -f git@git.coding.net:recoluan/vuepress-theme-reco-doc.git master
 
-git push -f git@github.com:vuepress-reco/vuepress-theme-reco-next.git origin/docs
+git push -f git@github.com:vuepress-reco/docs-v2.git main
 
 cd ../
 rm -rf dist
