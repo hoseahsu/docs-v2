@@ -1,5 +1,7 @@
 cd docs/public/.vuepress/dist
 
+ls
+
 git init
 git add -A
 git commit -m 'docs: update docs'
