@@ -1,5 +1,3 @@
-npm run build:docs
-
 cd docs/public/.vuepress/dist
 
 git init
