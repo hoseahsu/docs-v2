@@ -1,0 +1,1 @@
+"use strict";(self.webpackChunk=self.webpackChunk||[]).push([[574],{6574:(e,n,s)=>{s.r(n),s.d(n,{default:()=>r});var u=s(6252);const r={render:function(e,n){return(0,u.wg)(),(0,u.iD)("div",null,"posts")}}}}]);
